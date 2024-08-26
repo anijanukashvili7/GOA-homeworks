@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(138, 226, 138, 0.8);
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-weight: 10px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 5px;
+    padding: 5px;
+    justify-content: space-between;
+  }
+  .grid-container img{
+    width: 250px;
+    height: 300px;
+    border-radius: 13px;
+  }
+a{
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+}  

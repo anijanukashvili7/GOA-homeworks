@@ -1,0 +1,25 @@
+nav{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+a
+{text-decoration: none;
+color: beige;
+font-size: 30px;}
+.av{
+    font-size: 50px;
+}
+button{
+    width: 110px;
+    height: 50px;
+    background-color: rgb(224, 224, 235);
+}
+.ni{
+    text-decoration: none;
+    color: black;
+    font-weight: 100px;
+}

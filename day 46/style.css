@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    text-shadow: 5px 5px #1a502c;
+}
+button{width: 105px;
+    height: 55px;
+    text-decoration: none;
+    background-color: rgb(29, 115, 29);
+    border-radius: 65px;
+    font-size: 16px;
+float: right;}
+
+a {text-decoration: none;
+    color: white;}
+img{
+    height: 300px;
+    width: 400px;
+}
+div{
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,12 @@
+h1{margin-left: 10%;
+color: rgb(13, 9, 74);}
+p{margin-left: 5%;}
+a{color: beige;}
+nav{width: 1500px;
+height: 50px;
+background-color: rgb(11, 11, 67);}
+.conteiner{
+    display: flex;
+    justify-content: space-around;
+}
+.img{border-radius: 18px;}

@@ -1,0 +1,13 @@
+h1{margin-left: 40%;}
+button{width: 100px;
+    height: 50px;
+    text-decoration: none;
+    background-color: rgb(113, 225, 113);}
+    button:hover{
+        background-color:rgb(18, 62, 18);
+        transition: 1s;
+    }
+
+    a {text-decoration: none;
+        color: white;}
+    

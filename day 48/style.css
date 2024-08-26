@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 90px;
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+main{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-around;
+}
+img{
+    width: 400px;
+    height: 210px;
+}
+p{text-decoration: none;
+    color: white;
+    font-size: 75px;}
+
+div{
+    display: flex;
+    justify-content: space-around;
+}
+button{
+    width: 200px;
+    height: 100px;
+    background-color: white;
+    float: right;
+    border-radius: 6px;
+}
+.bu{
+    text-decoration: none;
+    color: black;
+}

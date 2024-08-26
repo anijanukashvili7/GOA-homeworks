@@ -1,0 +1,17 @@
+h1{margin-left: 40%;
+text-decoration: rgb(126, 56, 126);
+color: rgb(102, 40, 98);}
+button{width: 100px;
+    height: 50px;
+    background-color: rgb(33, 91, 33);
+    color: white;
+    border-radius: 90px;
+    font-size: 18px;
+    float: right;
+    margin-top: 150px;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}

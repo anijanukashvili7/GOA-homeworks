@@ -1,0 +1,13 @@
+h1{margin-left: 40%;}
+p{margin-left: 1%;}
+.dis{display: flex;
+justify-content: space-around;}
+button{
+    height: 50px;
+    width: 120px;
+    font-size: 23px;
+    border-radius: 16px;
+    background-color: brown;
+}
+a{text-decoration: none;
+color: beige;}

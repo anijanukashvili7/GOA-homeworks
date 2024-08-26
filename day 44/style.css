@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(233, 225, 225);
+}
+a{text-decoration: none;
+    color: rgb(51, 46, 46);
+}
+div{
+    width: 800px;
+    height: 150px;
+    margin-left: 20%;
+    margin-top: 5%;
+    text-align: center;
+    
+}
+div h1{
+    font-size: 50px;
+}
+button{
+    margin-top: 2%;
+}
+.bu{
+    margin-left: 31%;
+}
+button{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(233, 225, 225);
+    color: rgb(51, 46, 46);
+    border-radius: 90px;
+    font-size: 18px;
+    gap: 6px;
+}
+button:hover{
+    background-color: rgb(236, 236, 36);
+    transition: 1s;
+}
+img{
+    width: 400px;
+    height: 200px;
+    border-radius: 2px;
+    margin-top: 4%;
+}
+section{
+    display: flex;
+    justify-content: space-between;
+}
